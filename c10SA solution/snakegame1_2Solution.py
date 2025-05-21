@@ -22,4 +22,4 @@ while running:
     # Update display
     pygame.display.flip()
 
-pygame.quit()
+
